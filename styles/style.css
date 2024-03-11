@@ -115,7 +115,7 @@ ol {
 
 .content__video-card {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 194px;
   gap: 3px;
 }
 
